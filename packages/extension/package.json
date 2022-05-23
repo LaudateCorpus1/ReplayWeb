@@ -23,7 +23,7 @@
     "@replayweb/utils": "link:../utils",
     "antd": "~3.8.0",
     "deep-equal": "^1.0.1",
-    "dexie": "^1.5.1",
+    "dexie": "^3.2.2",
     "event-emitter": "^0.3.5",
     "github-api": "^3.2.2",
     "lodash.isequal": "^4.5.0",
